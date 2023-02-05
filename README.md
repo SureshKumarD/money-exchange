@@ -1,5 +1,10 @@
 # Exchange Rates Today
-## _A demo app to explore exchange api(s)_
+
+#### _Realtime money-exchange_
+
+You can convert your money from one currency to another curreny in realtime.
+SwifUI framework - declarative syntax used for rendering UI,
+Combine used for network and publisher.
 
 
 ## Requirements
