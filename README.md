@@ -7,7 +7,7 @@ SwifUI framework - declarative syntax used for rendering UI,
 Combine used for network and publisher.
 
 
-## Requirements
+### Requirements
 
 | Plugin | README |
 | ------ | ------ |
@@ -18,13 +18,13 @@ Combine used for network and publisher.
 | Mac OS | 13.0.1 |
 
 
-## Key Areas
+### Key Areas
 - Network layer
 - Cache Layer
 - Unit Tests
 
 
-## Note
+### Note
 Changing the API `base` currency is available for Developer, 
 Enterprise and Unlimited plan clients. 
 Please upgrade, or contact support@openexchangerates.org with any questions
