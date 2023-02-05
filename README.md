@@ -32,4 +32,4 @@ i.e., appId is available.
 - change the 'appId' value.
 
 > Note: Free Software.
-> For queries: sureshkumar709010@gmail.com
+> For queries: sureshkumar_durairaj@yahoo.in
